@@ -1,0 +1,27 @@
+# Customer Segmentation with Pandas
+
+This project performs initial data exploration and cleaning on a customer dataset containing demographic and spending behavior. 
+The goal is to prepare the data for deeper segmentation analysis.
+
+## Dataset
+
+- **Rows**: 1000+
+- **Features**: Gender, Age, Marital Status, Graduation, Profession, etc.
+
+## Steps
+
+- Null handling
+- Feature engineering
+- Basic visualizations
+- Export cleaned dataset
+
+## Tools Used
+
+- Python
+- Pandas
+- Jupyter Notebook
+- Seaborn/Matplotlib
+
+## Author
+
+Gülsarə Mirzəyeva – Data Analyst Trainee, Div Academy 💻
