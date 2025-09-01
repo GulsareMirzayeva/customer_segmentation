@@ -15,6 +15,8 @@ This repository contains an exploratory data analysis (EDA) project performed on
 - Sorted, filtered and selected data for better understanding
 - Analyzed categorical variables such as `Gender`, `Profession`, `Ever_Married`
 - Created a clean version of `Spending_Score`
+- Explored variable correlations using Pearson heatmap
+- Applied group-based imputation strategies (e.g., by Profession, Marriage)
 
 ## 🚀 Future Work
 
