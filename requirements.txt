@@ -24,4 +24,4 @@ The goal is to prepare the data for deeper segmentation analysis.
 
 ## Author
 
-Gülsarə Mirzəyeva – Data Analyst Trainee, Div Academy 💻
+Gulsara Mirzayeva - Data Analyst Trainee, Div Academy 💻
